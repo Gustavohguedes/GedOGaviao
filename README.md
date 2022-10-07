@@ -15,7 +15,7 @@
   <img aling="center" width="40" heihgt="80" alt="Ged-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aling="center" width="40" heihgt="80" alt="Ged-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img aling="center" width="40" heihgt="80" alt="Ged-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img  aling="center" width="40" heihgt="80" alt="Ged-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img aling="center" width="40" heihgt="80" alt="Ged-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img aling="center" width="40" heihgt="80" alt="Ged-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img aling="center" width="40" heihgt="80" alt="Ged-VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
@@ -23,5 +23,9 @@
 ##
 
 <div>
+ <img aling="right" src="https://media4.giphy.com/media/gtK6WmTEa9w3eCAVYX/giphy.gif?cid=790b76113630b46d64e95e79d72cbe2e52c7d851a8b182fb&rid=giphy.gif&ct=g" />
+</div>
+
+<div>
   
-</div
+</div>
