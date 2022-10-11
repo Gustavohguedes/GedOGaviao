@@ -23,7 +23,7 @@
 ##
 
 <div>
- <img aling="right" src="https://media4.giphy.com/media/gtK6WmTEa9w3eCAVYX/giphy.gif?cid=790b76113630b46d64e95e79d72cbe2e52c7d851a8b182fb&rid=giphy.gif&ct=g" />
+ <img aling="right" src="https://media4.giphy.com/media/gtK6WmTEa9w3eCAVYX/giphy.gif?cid=790b76113630b46d64e95e79d72cbe2e52c7d851a8b182fb&rid=giphy.gif&ct=g" align="right" />
 </div>
 
 ![snake gif](https://github.com/GedOGaviao/GedOGaviao/blob/output/github-contribution-grid-snake.svg)
