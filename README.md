@@ -19,4 +19,4 @@
 ##
 
 
-![snake gif](https://github.com/GedOGaviao/GedOGaviao/blob/output/github-contribution-grid-snake.svg)
+
