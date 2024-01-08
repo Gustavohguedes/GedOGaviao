@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GedOGaviao
 - 👀 I’m interested in Game Dev and Back end Dev
 - 🌱 I’m currently learning Back end
-- 💞️ I’m looking to collaborate on Game Dev 
+- 💞️ I’m looking to collaborate on Back End 
 - 📫 How to reach me gustavoguedesalbuquerque@gmail.com
 
 
